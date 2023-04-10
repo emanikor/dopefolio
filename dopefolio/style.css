@@ -363,6 +363,13 @@ p {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 	color: white;
 }
+#projects .project-info  a{
+	margin-top: 1rem;
+	font-size: 1.4rem;
+ color: #ffff;
+ background-color:  crimson;
+ padding: 10px;
+}
 #projects .project-info h1 {
 	font-size: 4rem;
 	font-weight: 500;
@@ -373,6 +380,7 @@ p {
 	margin-top: 10px;
 }
 #projects .project-info p {
+
 	color: white;
 }
 #projects .project-img {
